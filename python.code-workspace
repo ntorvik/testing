@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "SynapseLab"
+		},
+		{
+			"name": "Databricks - Workspace",
+			"uri": "wsfs:/"
+		}
+	],
+	"settings": {
+		"debug.internalConsoleOptions": "neverOpen"
+	}
+}
